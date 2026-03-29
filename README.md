@@ -1,2 +1,2 @@
 # Resume-Sayan-Acharyya
-A basic html based of my resume
+A basic html based project of my resume
